@@ -1,0 +1,26 @@
+﻿  Source.cpp
+  Создание кода
+  
+  --- Анализ функции: void __cdecl MuxNo(float,float *,float *)
+  D:\6 сем\АВП\lab1\matrix\Source.cpp(137) : info C5002: цикл не векторизирован по следующей причине: "1400"
+  
+  --- Анализ функции: void __cdecl Mux(float,float *,float *)
+  D:\6 сем\АВП\lab1\matrix\Source.cpp(128) : info C5001: векторизированный цикл
+  
+  --- Анализ функции: void __cdecl MuxNoVector(float * * * *,float * * * *,float * * * *)
+  D:\6 сем\АВП\lab1\matrix\Source.cpp(107) : info C5002: цикл не векторизирован по следующей причине: "1204"
+  
+  --- Анализ функции: void __cdecl MuxVector(float * * * *,float * * * *,float * * * *)
+  D:\6 сем\АВП\lab1\matrix\Source.cpp(85) : info C5002: цикл не векторизирован по следующей причине: "1204"
+  
+  --- Анализ функции: main
+  D:\6 сем\АВП\lab1\matrix\Source.cpp(52) : info C5002: цикл не векторизирован по следующей причине: "503"
+  D:\6 сем\АВП\lab1\matrix\Source.cpp(58) : info C5002: цикл не векторизирован по следующей причине: "503"
+  D:\6 сем\АВП\lab1\matrix\Source.cpp(54) : info C5002: цикл не векторизирован по следующей причине: "503"
+  D:\6 сем\АВП\lab1\matrix\Source.cpp(27) : info C5002: цикл не векторизирован по следующей причине: "503"
+  D:\6 сем\АВП\lab1\matrix\Source.cpp(107) : info C5002: цикл не векторизирован по следующей причине: "1204"
+  5 of 9 functions (55.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  matrix.vcxproj -> D:\6 сем\АВП\lab1\Release\matrix.exe

@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\6 сем\АВП\lab_3\lab_3\Main.cpp(9,9): warning C4164: __rdtsc: подставляемая функция не объявлена
+D:\6 сем\АВП\lab_3\lab_3\Main.cpp(9,27): warning C4081: требуется "newline"; обнаружен ";"
+D:\6 сем\АВП\lab_3\lab_3\Main.cpp(35,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\6 сем\АВП\lab_3\lab_3\Main.cpp(54,14): warning C4244: =: преобразование "lli" в "size_t", возможна потеря данных
+  lab_3.vcxproj -> D:\6 сем\АВП\lab_3\Debug\lab_3.exe
